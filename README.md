@@ -1,6 +1,6 @@
 #### WorkFlowSort
 
-WorkFlowSort is a Python script that provides a command-line interface to sort and manage your Workflows in your GitHub repositories. With this script, you can easily sort your Workflows by name, start time, or end time, making it effortless to find the information you need.
+WorkFlowSort is a Python script that provides a script interface to sort and manage your Workflows in your GitHub repositories. With this script, you can easily sort your Workflows by name, start time, or end time, making it effortless to find the information you need.
 
 To use WorkFlowSort, you must have Python 3.x and the git command line tool installed on your system. Once you have these dependencies installed, you can run the script and sort the Workflows in any of your GitHub repositories quickly and effortlessly. The package is open source and distributed under the GNU License, which allows you to use it freely in your personal and commercial projects.
 
