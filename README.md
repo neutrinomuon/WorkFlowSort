@@ -20,3 +20,4 @@ Thank you for considering contributing to WorkFlowSort! We appreciate your suppo
 
 #### LICENSE
 
+<a href="https://github.com/neutrinomuon/WorkFlowSort/blob/main/LICENSE">LICENSE</a>
