@@ -1,0 +1,9 @@
+LICENSE
+README.md
+WorkFlowSort.py
+setup.py
+WorkFlowSort.egg-info/PKG-INFO
+WorkFlowSort.egg-info/SOURCES.txt
+WorkFlowSort.egg-info/dependency_links.txt
+WorkFlowSort.egg-info/requires.txt
+WorkFlowSort.egg-info/top_level.txt
